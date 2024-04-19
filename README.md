@@ -18,3 +18,15 @@ $ pip install -r requirements.txt
 python weighted_bert.py
 ```
 
+## Experiment Logs
+
+Test metrics on level 1:
+- Top 3 Accuracy for level 1: 95.6%
+- F1 Score for level 1: 86.7%
+- Precision Score for level 1: 84.4%
+- Recall Score for level 1: 89.2%
+
+Test metrics on 2 levels:
+- F1 Score for 2 levels: 79.3%
+- Precision Score for 2 levels: 74.7%
+- Recall Score for 2 levels: 86.3%
