@@ -1,5 +1,6 @@
 # Hierarchical-News-Articles-Classification-Weighted-BERT
 Project of Umich SI 630: Natural Language Processing: Algorithms and People
+
 This project is aimed to classify the topic of news article into 2 levels, with 17 level-1 labels and 109 level-2 labels.
 
 ## Installation
