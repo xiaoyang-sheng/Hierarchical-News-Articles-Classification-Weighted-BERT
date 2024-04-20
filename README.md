@@ -3,6 +3,8 @@ Project of Umich SI 630: Natural Language Processing: Algorithms and People
 
 This project is aimed to classify the topic of news article into 2 levels, with 17 level-1 labels and 109 level-2 labels.
 
+You may refer to **report.pdf** for details.
+
 ## Installation
 requirements.txt is just a reference for the environment. Package used including pandas, numpy, dataset, transformers, wandb, torch and sklearn.
 ```shell
