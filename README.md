@@ -6,7 +6,9 @@ This project is aimed to classify the topic of news article into 2 levels, with 
 You may refer to **report.pdf** for details.
 
 ## Installation
-requirements.txt is just a reference for the environment. Package used including pandas, numpy, dataset, transformers, wandb, torch and sklearn.
+Package used including pandas, numpy, dataset, transformers, wandb, torch and sklearn.
+
+requirements.txt is just a reference for the environment. 
 ```shell
 $ pip install -r requirements.txt
 ```
